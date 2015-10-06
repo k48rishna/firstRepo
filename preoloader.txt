@@ -1,0 +1,139 @@
+----------------
+    <!--footer -->
+   <footer class="page-footer blue-grey darken-2">
+       <div>
+           <div class="row">
+            <ul>
+                <li class="col s2 right">
+               <div >
+                   <h6 class="white-text">KhalliJeb</h6>
+                   <ul>
+                       <li><a class="grey-text text-lighten-3" href="#!">About</a></li>
+                       <li><a class="grey-text text-lighten-3" href="#!">Team</a></li>
+                       <li><a class="grey-text text-lighten-3" href="#!">Contact Us</a></li>
+                       <li><a class="grey-text text-lighten-3" href="#!"></a></li>
+                   </ul>
+               </div>
+                    </li>
+
+                <li class="col s2 right">
+               <div >
+                   <h6 class="white-text">More Links</h6>
+                   <ul>
+                       <li><a class="grey-text text-lighten-3" href="#!">Privacy Policy</a></li>
+                       <li><a class="grey-text text-lighten-3" href="#!">Term & Conditions</a></li>
+                       <li><a class="grey-text text-lighten-3" href="#!">Refund Policy</a></li>
+                   </ul>
+               </div>
+                </li>
+                </ul>
+           </div>
+       </div>
+       <!--social-->
+       <div class="list_horizontal section scrollspy" id="follow">
+           <ul class="container center-tag ">
+               <li><a class="z-depth-3 "href="http://facebook.com" target="_blank"><input type="image" src="images/facebook.png"/> </a> </li>
+               <li><a class="z-depth-3"href="http://twitter.com" target="_blank"><input type="image" src="images/twitter.png"/> </a> </li>
+               <li><a class="z-depth-3"href="http://plus.google.com" target="_blank"><input type="image" src="images/google+.png"/> </a> </li>
+               <li><a class="z-depth-3"href="http://linkedin.com" target="_blank"><input type="image" src="images/linkedin.png"/> </a> </li>
+           </ul>
+       </div>
+       <div class="footer-copyright">
+               <div class="container center-tag">
+                   @ 2015 Copyright Khaalijeb.  All Right Reserved.
+               </div>
+       </div>
+   </footer>
+----------------
+       <div class="">
+           <a id="home1" value="hide/show" class="btn" ><i class="material-icons">menu</i></a>
+</div>
+           <!--wallet tab -->
+       <div class="row">
+           <div class="white section col s2 "id="home11">
+               <div class="row">
+                   <li><a href="#wallet" >Home</a></li>
+                   <li><a href="#features" >Features</a></li>
+                   <li><a href="#contact">Contact</a></li>
+                   <li><a href="#follow">Follow Us</a></li>
+               </div>
+
+
+           </div>
+--------------------------  
+<div class="col s12 container">
+                   <ul class="tabs ">
+                       <li class="tab col s3"><a class="active" href="#wallet">Wallet</a></li>
+                       <li class="tab col s3"><a href="#test2">Follow Merchants</a></li>
+                       <li class="tab col s3"><a href="#test3">Transaction History</a></li>
+                       <li class="tab col s3"><a href="#test4">Customer Support</a></li>
+                   </ul>
+               </div>
+
+           </div>
+-----------------
+
+   <div class="splash" ng-cloak="" >
+       <div class="splashh2">
+       <div class="preloader-wrapper big active container">
+           <div class="spinner-layer spinner-blue">
+               <div class="circle-clipper left">
+                   <div class="circle"></div>
+               </div><div class="gap-patch">
+               <div class="circle"></div>
+           </div><div class="circle-clipper right">
+               <div class="circle"></div>
+           </div>
+           </div>
+
+           <div class="spinner-layer spinner-red">
+               <div class="circle-clipper left">
+                   <div class="circle"></div>
+               </div><div class="gap-patch">
+               <div class="circle"></div>
+           </div><div class="circle-clipper right">
+               <div class="circle"></div>
+           </div>
+           </div>
+
+           <div class="spinner-layer spinner-yellow">
+               <div class="circle-clipper left">
+                   <div class="circle"></div>
+               </div><div class="gap-patch">
+               <div class="circle"></div>
+           </div><div class="circle-clipper right">
+               <div class="circle"></div>
+           </div>
+           </div>
+
+           <div class="spinner-layer spinner-green">
+               <div class="circle-clipper left">
+                   <div class="circle"></div>
+               </div><div class="gap-patch">
+               <div class="circle"></div>
+           </div><div class="circle-clipper right">
+               <div class="circle"></div>
+           </div>
+           </div>
+       </div>
+       </div>
+      
+       </div>
+-------------------------------------------
+   <nav>
+       <div class="nav-wrapper blue-grey darken-3 nav1">
+           <a href="#!" class="brand-logo">KhaaliJeb</a>
+           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+           <ul class="right hide-on-med-and-down">
+               <li><a class="waves-effect waves-light btn modal-trigger"  href="#modal1" >Log in/Sign Up</a></li>
+
+           </ul>
+           <ul class="side-nav" id="mobile-demo">
+               <li><a href="#home" >Home</a></li>
+               <li><a href="#features" >Features</a></li>
+               <li><a href="#contact">Contact</a></li>
+               <li><a href="#follow">Follow Us</a></li>
+
+           </ul>
+       </div>
+   </nav>
